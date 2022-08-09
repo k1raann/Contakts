@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contakts/static/css/main.7a3b7ef1.css",
+    "main.js": "/Contakts/static/js/main.1bf0bd9c.js",
+    "static/js/787.a9a1a97d.chunk.js": "/Contakts/static/js/787.a9a1a97d.chunk.js",
+    "static/media/logo.svg": "/Contakts/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Contakts/index.html",
+    "main.7a3b7ef1.css.map": "/Contakts/static/css/main.7a3b7ef1.css.map",
+    "main.1bf0bd9c.js.map": "/Contakts/static/js/main.1bf0bd9c.js.map",
+    "787.a9a1a97d.chunk.js.map": "/Contakts/static/js/787.a9a1a97d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3b7ef1.css",
+    "static/js/main.1bf0bd9c.js"
+  ]
+}
